@@ -1,0 +1,42 @@
+.header {
+    background: #314755; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #314755 , #26a0da); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #314755 , #26a0da); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+        
+    color: #ffffff;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#about-me {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#links {
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+.fa {
+  color: black;
+}
+
+.fa-fw {
+    width: 1.571429em;
+    text-align: center;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+h1, h3, p {
+  font-family: 'Raleway', sans-serif;
+}
+
+.about-paragraph {
+  font-size: 40px;
+  font-weight: 200;
+}
+
